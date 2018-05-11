@@ -1,0 +1,17 @@
+data_1.txt
+data_2.txt
+data_3.txt
+data_4.txt
+data_5.txt
+data_8.txt
+data_10.txt
+data_12.txt
+data_15.txt
+data_20.txt
+data_21.txt
+data_25.txt
+data_30.txt
+data_33.txt
+data_54.txt
+data_77.txt
+data_100.txt

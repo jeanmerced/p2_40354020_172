@@ -1,0 +1,13 @@
+Number of customers is: 5
+SLMS    1:  17  4.0  0.0
+SLMS    3:  17  4.0  0.0
+SLMS    5:  17  4.0  0.0
+MLMS    1:  17  4.0  0.0
+MLMS    3:  12  1.0  0.2
+MLMS    5:  12  1.0  0.2
+MLMSBLL 1:  17  4.0  0.0
+MLMSBLL 3:  12  1.0  0.2
+MLMSBLL 5:  12  1.0  0.2
+MLMSBWT 1:  17  4.0  0.0
+MLMSBWT 3:  12  0.0  0.0
+MLMSBWT 5:  12  0.0  0.0
